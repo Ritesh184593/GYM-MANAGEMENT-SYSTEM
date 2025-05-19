@@ -18,21 +18,21 @@ It allows users to view gym plans, register, and manage profiles, while admins c
 
 ## 🛠️ Technologies Used
 
-* **Frontend**: HTML, CSS, JavaScript
-* **Backend**: PHP
-* **Database**: MySQL
+* Frontend: HTML, CSS, JavaScript
+* Backend: PHP
+* Database: MySQL
 
 ---
 
 ## 🗃️ Database Setup
 
-1. Open **phpMyAdmin** or your preferred MySQL tool.
-2. Create a new database, e.g., `gym_website`.
+1. Open phpMyAdmin or your preferred MySQL tool.
+2. Create a new database, e.g., `gymmanagement`.
 3. Import the provided SQL file:
 
-   * Click **Import**
-   * Choose the file `gym_database.sql`
-   * Click **Go**
+   * Click Import
+   * Choose the file `gym.sql`
+   * Click Go
 
 ---
 
