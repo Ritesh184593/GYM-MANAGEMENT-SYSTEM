@@ -15,9 +15,10 @@ It allows users to view gym plans, register, and manage profiles. Admins can man
 -----------------------------------------------------------------------------------------------------------------------
 
 🛠️Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: PHP
-Database: MySQL
+•	Frontend: HTML, CSS, JavaScript
+•	Backend: PHP
+•	Database: MySQL
+
 
 ------------------------------------------------------------------------------------------------------------------------
 
